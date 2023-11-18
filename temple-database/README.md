@@ -1,2 +1,0 @@
--This folder contains a python code for creating a temple database.
--Please note that you need to install the Flask module inorder to run it.
